@@ -1,4 +1,3 @@
 original line
 Second line
 third line
-bad commit
